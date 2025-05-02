@@ -36,6 +36,18 @@ const Header = () => {
                   ? "text-primary border-b-2 border-primary pb-0.5 font-bold"
                   : ""
               }
+              to="/usuarios"
+            >
+              Usuários
+            </NavLink>
+          </li>
+          <li className="text-white">
+            <NavLink
+              className={({ isActive }) =>
+                isActive
+                  ? "text-primary border-b-2 border-primary pb-0.5 font-bold"
+                  : ""
+              }
               to="/sobre"
             >
               Sobre
