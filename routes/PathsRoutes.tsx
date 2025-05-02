@@ -1,9 +1,10 @@
 import { Routes, Route, Navigate } from "react-router-dom";
+
 import About from "../src/pages/About";
 import Contact from "../src/pages/Contact";
 import HomePage from "../src/pages/HomePage";
 import PagesLayout from "../src/layouts/PageLayout";
-import React from "react";
+
 const PathsRoutes = () => {
   return (
     <div>

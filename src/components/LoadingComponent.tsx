@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 function LoadingComponent() {
   const [data, setData] = useState<string | null>(null);
