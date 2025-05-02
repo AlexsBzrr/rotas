@@ -1,9 +1,9 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 
-import About from "../src/pages/About";
-import Contact from "../src/pages/Contact";
-import HomePage from "../src/pages/HomePage";
-import PagesLayout from "../src/layouts/PageLayout";
+import About from "../pages/About";
+import Contact from "../pages/Contact";
+import HomePage from "../pages/HomePage";
+import PagesLayout from "../layouts/PageLayout";
 
 const PathsRoutes = () => {
   return (

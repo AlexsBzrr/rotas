@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import PathsRoutes from "./../routes/PathsRoutes";
+import PathsRoutes from "./routes/PathsRoutes";
 
 function App() {
   return (
