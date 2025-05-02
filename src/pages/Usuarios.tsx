@@ -18,7 +18,7 @@ const Usuarios = () => {
           <Link to={"/usuario/4/Totó Prado"}>Totó Prado</Link>
         </li>
         <li>
-          <Link to={"/usuario/4/Galydon Prado"}>Galydon Prado</Link>
+          <Link to={"/usuario/4/Glaydon Prado"}>Galydon Prado</Link>
         </li>
       </ul>
     </div>
